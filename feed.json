@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "南吕拾一博客",
+    "description": "",
+    "home_page_url": "https://seggp.github.io/Blog",
+    "feed_url": "https://seggp.github.io/Blog/feed.json",
+    "user_comment": "",
+    "icon": "https://seggp.github.io/Blog/media/website/11-1.png",
+    "author": {
+        "name": "Song"
+    },
+    "items": [
+    ]
+}
