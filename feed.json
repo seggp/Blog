@@ -10,5 +10,47 @@
         "name": "Song"
     },
     "items": [
+        {
+            "id": "https://seggp.github.io/Blog/mac-2.html",
+            "url": "https://seggp.github.io/Blog/mac-2.html",
+            "title": "Mac",
+            "summary": " Alfred Powerpack——本地搜索及快速启动工具，你提高工作效率。使用手册 ",
+            "content_html": "<p class=\"align-center\"> </p>\n<pre><a href=\"https://macwk.com/soft/alfred-4\" target=\"_blank\" rel=\"noopener noreferrer\">Alfred Powerpack</a>——本地搜索及快速启动工具，你提高工作效率。<a href=\"http://louiszhai.github.io/2018/05/31/alfred/#5-%E5%BF%AB%E6%8D%B7%E7%BD%91%E9%A1%B5%E6%90%9C%E7%B4%A2\" target=\"_blank\" rel=\"noopener noreferrer\">使用手册</a></pre>\n<p> </p>",
+            "author": {
+                "name": "Song"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-17T09:13:48+08:00",
+            "date_modified": "2021-09-17T09:23:15+08:00"
+        },
+        {
+            "id": "https://seggp.github.io/Blog/android.html",
+            "url": "https://seggp.github.io/Blog/android.html",
+            "title": "Android",
+            "summary": "Android软件",
+            "content_html": "<p class=\"align-center\">Android软件</p>",
+            "author": {
+                "name": "Song"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-16T16:44:04+08:00",
+            "date_modified": "2021-09-17T09:42:30+08:00"
+        },
+        {
+            "id": "https://seggp.github.io/Blog/windows.html",
+            "url": "https://seggp.github.io/Blog/windows.html",
+            "title": "Windows",
+            "summary": "Windows常用软件 ",
+            "content_html": "<p class=\"align-center\">Windows常用软件</p>\n<ul>\n<li> </li>\n</ul>",
+            "author": {
+                "name": "Song"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-16T16:42:57+08:00",
+            "date_modified": "2021-09-17T09:42:34+08:00"
+        }
     ]
 }
